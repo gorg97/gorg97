@@ -4,8 +4,6 @@
 <info closed>
 <summary> info</summary>
 
-i am gorg
-i like tf2 and pokemon and a lot of other things
-don't be afraid to come up and talk/sit with me! 😁
+yeah
 
 </info>
