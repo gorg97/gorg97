@@ -1,12 +1,12 @@
 ## hello i am gorg, i've given up on trying to make this look nice.
 go to my strawpage, it's nicer
 
-<byi closed>
+<details closed>
 <summary> info</summary>
 
 yeah
 
-</byi>
+</details>
 
 
 
