@@ -2,7 +2,7 @@
 go to my strawpage, it's nicer
 
 <details closed>
-<summary> info</summary>
+<summary> byi</summary>
 
 yeah
 
