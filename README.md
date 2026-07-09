@@ -4,11 +4,11 @@ go to my strawpage, it's nicer
 <details closed>
 <summary> byi</summary>
 
-i get really bad mood swings and i change my opinions and views drastically all the time
-also related to the mood swings but I can honestly be the nicest person you've ever met or be an actual arsehole (iwcaution)
-my internet is actual shit so don't take it personally if I randomly disappear when we're sitting (i'll usually come back!)
-I do get pretty sad when i'm left alone sometimes
-I live inside my head and i derealise and desocialise a lot
+I get really bad mood swings and I change my opinions and views drastically all the time. 
+Also related to the mood swings but I can honestly be the nicest person you've ever met or be an actual arsehole (iwcaution). 
+My internet is actual shit so don't take it personally if I randomly disappear when we're sitting (i'll usually come back!). 
+I do get pretty sad when i'm left alone sometimes. 
+I live inside my head and i derealise and desocialise a lot. 
 
 </details>
 
