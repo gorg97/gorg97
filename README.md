@@ -17,10 +17,16 @@ I live inside my head and i derealise and desocialise a lot.
 
 <img width="375" height="358" alt="image" src="https://github.com/user-attachments/assets/4287e32e-334d-4927-a272-06a534f9e1c8" />
 
+
+
 <img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/aafcab2b-4776-4735-bd0d-61f96391cda6" />
+
 <img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/6079983a-1e91-4171-a63d-ad61679494cb" />
+
 <img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/6da5acd1-5b71-456d-badd-5c7dad4b7336" />
+
 <img width="150" height="21" alt="image" src="https://github.com/user-attachments/assets/7be9659c-afda-4161-9c62-336908df08f7" />
+
 <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/77d5fa34-7685-484b-a458-00bd499c94da" />
 
 
