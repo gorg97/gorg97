@@ -5,6 +5,7 @@ go to my strawpage, it's nicer
 <summary> byi</summary>
 
 I'm usually off-tab so please w2i. I might also miss some messgages (#_<-) )
+hi ya also don't copy my skins >:-( you can take inspo though!!!
 I get really bad mood swings and I change my opinions and views drastically all the time. 
 Also related to the mood swings but I can honestly be the nicest person you've ever met or be an actual arsehole (iwcaution). 
 My internet is actual shit so don't take it personally if I randomly disappear when we're sitting (i'll usually come back!). 
