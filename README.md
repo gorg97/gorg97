@@ -30,7 +30,6 @@ I live inside my head and i derealise and desocialise a lot.
 
 <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/77d5fa34-7685-484b-a458-00bd499c94da" />
 
-<img width="730" height="99" alt="image" src="https://github.com/user-attachments/assets/1cccb485-0b67-4443-87c0-a03dac93ae6b" />
 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317vzs47greulnxzhbonttb5eziy&cover_image=true&theme=novatorem&show_offline=false&background_color=93bde0&interchange=true&profanity=false&hide_remaster=false&bar_color=f37c98&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=317vzs47greulnxzhbonttb5eziy&redirect=true)
