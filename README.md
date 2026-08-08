@@ -1,6 +1,8 @@
 ## hello i am gorg, i've given up on trying to make this look nice.
 go to my strawpage, it's nicer
 
+<a href="https://hits.sh/github.com/gorg97/"><img alt="Hits" src="https://hits.sh/github.com/gorg97.svg?style=plastic&label=stuck%20in%20pyroland&color=ed4b7e&labelColor=ed4b7e"/></a>
+
 <details closed>
 <summary> byi</summary>
 
