@@ -33,6 +33,5 @@ I live inside my head and i derealise and desocialise a lot.
   <img src="https://gorgblink.carrd.co/assets/images/image06.gif?v=e45cbb97" alt="do you believe in magic?">
   <img src="https://gorgblink.carrd.co/assets/images/image10.gif?v=ff4b8eed" alt="hands of sincerity">
   <img src="https://gorgblink.carrd.co/assets/images/image27.png?v=a318a20e" alt="pyroland">
-<img src="https://gorgblink.carrd.co/assets/images/image44.gif?v=a318a20e" alt="warm star glitter">
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317vzs47greulnxzhbonttb5eziy&cover_image=true&theme=novatorem&show_offline=false&background_color=93bde0&interchange=true&profanity=false&hide_remaster=false&bar_color=f37c98&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=317vzs47greulnxzhbonttb5eziy&redirect=true)
