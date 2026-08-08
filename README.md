@@ -3,6 +3,8 @@ go to my strawpage, it's nicer
 
 <a href="https://hits.sh/github.com/gorg97/"><img alt="Hits" src="https://hits.sh/github.com/gorg97.svg?style=plastic&label=stuck%20in%20pyroland&color=ed4b7e&labelColor=ed4b7e"/></a>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Original+Surfer&duration=2000&pause=750&color=ED4B7E&width=435&lines=in+my+mind%2C+my+dreams+are+real;now+we're+concerned+about+the+way+i+feel;toniiiiiiiiight;i'm+a+rock+n+roll+star!!" alt="Typing SVG" /></a>
+
 <details closed>
 <summary> byi</summary>
 
