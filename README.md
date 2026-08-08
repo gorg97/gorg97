@@ -26,6 +26,7 @@ I live inside my head and i derealise and desocialise a lot.
   <img src="https://gorgblink.carrd.co/assets/images/image31.gif?v=e45cbb97" alt="rainbows!">
   <img src="https://gorgblink.carrd.co/assets/images/image35.gif?v=e45cbb97" alt="i suck at tf2">
   <img src="https://gorgblink.carrd.co/assets/images/image08.gif?v=e45cbb97" alt="yeah i main pyro">
+  <img src="https://gorgblink.carrd.co/assets/images/image06.gif?v=e45cbb97" alt="do you believe in magic?">
   <img src="https://gorgblink.carrd.co/assets/images/image10.gif?v=ff4b8eed" alt="hands of sincerity">
 
 
