@@ -1,8 +1,8 @@
 ## hello i am gorg, i've given up on trying to make this look nice.
-go to my strawpage, it's nicer
 
 <img width="1000" height="30" alt="image" src="https://github.com/user-attachments/assets/fffc8dd3-a84a-43b7-9f73-18802e08989d" />
 
+go to my strawpage, it's nicer
 
 
 
