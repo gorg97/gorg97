@@ -3,6 +3,9 @@ go to my strawpage, it's nicer
 
 <img width="1000" height="30" alt="image" src="https://github.com/user-attachments/assets/fffc8dd3-a84a-43b7-9f73-18802e08989d" />
 
+
+
+
 <a href="https://hits.sh/github.com/gorg97/"><img alt="Hits" src="https://hits.sh/github.com/gorg97.svg?style=plastic&label=stuck%20in%20pyroland&color=ed4b7e&labelColor=ed4b7e"/></a>
 
 
