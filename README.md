@@ -7,7 +7,7 @@ go to my strawpage, it's nicer
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Original+Surfer&duration=2000&pause=750&color=ED4B7E&width=435&lines=in+my+mind%2C+my+dreams+are+real;now+we're+concerned+about+the+way+i+feel;toniiiiiiiiight;i'm+a+rock+n+roll+star!!" alt="Typing SVG" /></a>
 
-<img width="1000" height="30" alt="image" src="https://github.com/user-attachments/assets/0b2a75c5-828e-443c-80a0-861fd9fbe018" />
+<img width="1000" height="30" alt="image" src="[https://github.com/user-attachments/assets/0b2a75c5-828e-443c-80a0-861fd9fbe018](https://gorg97-blinkie-stamp-collection.neocities.org/page%20dividers/16.gif)" />
 
 
 <details closed>
