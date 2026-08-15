@@ -1,13 +1,12 @@
 ## hello i am gorg, i've given up on trying to make this look nice.
 go to my strawpage, it's nicer
 
+<img width="1000" height="30" alt="image" src="https://github.com/user-attachments/assets/fffc8dd3-a84a-43b7-9f73-18802e08989d" />
+
 <a href="https://hits.sh/github.com/gorg97/"><img alt="Hits" src="https://hits.sh/github.com/gorg97.svg?style=plastic&label=stuck%20in%20pyroland&color=ed4b7e&labelColor=ed4b7e"/></a>
 
-<img width="1000" height="30" alt="image" src="https://github.com/user-attachments/assets/0b2a75c5-828e-443c-80a0-861fd9fbe018" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Original+Surfer&duration=2000&pause=750&color=ED4B7E&width=435&lines=in+my+mind%2C+my+dreams+are+real;now+we're+concerned+about+the+way+i+feel;toniiiiiiiiight;i'm+a+rock+n+roll+star!!" alt="Typing SVG" /></a>
-
-<img width="1000" height="30" alt="image" src="https://github.com/user-attachments/assets/9f30035d-2a0c-4d56-a934-2bd3b91754da">
 
 
 <details closed>
@@ -23,13 +22,7 @@ I live inside my head and i derealise and desocialise a lot.
 
 </details>
 
-<img width="1000" height="30" alt="image" src="https://github.com/user-attachments/assets/bae2dc5f-4912-4c00-a6de-2e37116ed90d" />
-
 <img width="375" height="358" alt="image" src="https://github.com/user-attachments/assets/4287e32e-334d-4927-a272-06a534f9e1c8" />
-
-
-<img width="1000" height="30" alt="image" src="https://github.com/user-attachments/assets/fffc8dd3-a84a-43b7-9f73-18802e08989d" />
-
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317vzs47greulnxzhbonttb5eziy&cover_image=true&theme=novatorem&show_offline=false&background_color=93bde0&interchange=true&profanity=false&hide_remaster=false&bar_color=f37c98&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=317vzs47greulnxzhbonttb5eziy&redirect=true)
 
