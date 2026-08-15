@@ -24,7 +24,21 @@ I live inside my head and i derealise and desocialise a lot.
 
 <img width="375" height="358" alt="image" src="https://github.com/user-attachments/assets/4287e32e-334d-4927-a272-06a534f9e1c8" />
 
-<img src="blinkies/07d9245a.gif" alt="rainbows!"> <img src="blinkies/73119blinkies (5).gif" alt="drugs lead nowhere but it's the scenic route"> <img src="blinkies/blinkiefyle (76).gif" alt="reality is the leading cause of stress"> <img src="blinkies/blinkiesCafe-A2.gif" alt="i love pyroland"> <img src="blinkies/download (3).gif" alt="stuck in pyroland"> <img src="blinkies/ezgif-8e8e557eac48a025.gif" alt="clone high splash"> <img src="blinkies/i-love-rainbows.gif" alt="i love rainbows"> <img src="blinkies/ill never die.gif" alt="i'll never die"> <img src="blinkies/pyroland.gif" alt="do you believe in magic?"> <img src="blinkies/tumblr_inline_p3rqkaz1cm1rat5il_500.gif" alt="so gorgeous"> <img src="blinkies/tumblr_static_4uga3447452ccckggks4w048g.gif" alt="i'm not crazy, your realisty is just different from mine"> <img src="blinkies/x3.gif" alt="life is fun!"> <img src="stamps/tumblr_inline_pczlv5vJ7w1w5hr1w_500.gif" alt="rainbow acid"> <img src="stamps/zn (1).gif" alt="stuff is always better in my imagination"> <img src="stamps/clone high- hands of sincerity stamp m00nsrequest.gif" alt="hands of sincerity"> 
+<img src="blinkies/07d9245a.gif" alt="rainbows!">
+<img src="blinkies/73119blinkies (5).gif" alt="drugs lead nowhere but it's the scenic route"> 
+<img src="blinkies/blinkiefyle (76).gif" alt="reality is the leading cause of stress"> 
+<img src="blinkies/blinkiesCafe-A2.gif" alt="i love pyroland"> 
+<img src="blinkies/download (3).gif" alt="stuck in pyroland">
+<img src="blinkies/ezgif-8e8e557eac48a025.gif" alt="clone high splash"> 
+<img src="blinkies/i-love-rainbows.gif" alt="i love rainbows"> 
+<img src="blinkies/ill never die.gif" alt="i'll never die">
+<img src="blinkies/pyroland.gif" alt="do you believe in magic?">
+<img src="blinkies/tumblr_inline_p3rqkaz1cm1rat5il_500.gif" alt="so gorgeous"> 
+<img src="blinkies/tumblr_static_4uga3447452ccckggks4w048g.gif" alt="i'm not crazy, your realisty is just different from mine"> 
+<img src="blinkies/x3.gif" alt="life is fun!"> 
+<img src="stamps/tumblr_inline_pczlv5vJ7w1w5hr1w_500.gif" alt="rainbow acid">
+<img src="stamps/zn (1).gif" alt="stuff is always better in my imagination"> 
+<img src="stamps/clone high- hands of sincerity stamp m00nsrequest.gif" alt="hands of sincerity"> 
 
 
 <img src="page dividers/557332323-b40b4a55-f8f2-4126-8307-d6e345e379c5.png" alt="pink candy cane">
