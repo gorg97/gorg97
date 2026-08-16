@@ -25,7 +25,7 @@ go to my strawpage, it's nicer
 
 </details>
 
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+![pyroland]([https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://klipy.com/gifs/team-fortress-2-tf2-44))
 
 <img width="375" height="358" alt="image" src="https://github.com/user-attachments/assets/4287e32e-334d-4927-a272-06a534f9e1c8" />
 
