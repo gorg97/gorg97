@@ -18,10 +18,10 @@ go to my strawpage, it's nicer
 <p> I'm usually off-tab so please w2i. I might also miss some messgages (#_<-) ) </p>
 <p> hi ya also don't copy my skins >:-( you can take inspo though!!! </p>
 <p> I get really bad mood swings and I change my opinions and views drastically all the time. </p>
-Also related to the mood swings but I can honestly be the nicest person you've ever met or be an actual arsehole (iwcaution). 
-My internet is actual shit so don't take it personally if I randomly disappear when we're sitting (i'll usually come back!). 
-I do get pretty sad when i'm left alone sometimes. 
-I live inside my head and i derealise and desocialise a lot. 
+<p> Also related to the mood swings but I can honestly be the nicest person you've ever met or be an actual arsehole (iwcaution). </p>
+<p> My internet is actual shit so don't take it personally if I randomly disappear when we're sitting (i'll usually come back!). </p>
+<p>I do get pretty sad when i'm left alone sometimes. </p>
+<p>I live inside my head and i derealise and desocialise a lot. </p>
 
 </details>
 
