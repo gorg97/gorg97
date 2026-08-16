@@ -25,7 +25,8 @@ go to my strawpage, it's nicer
 
 </details>
 
-<img src="blinkies/pyroland.gif" alt="do you believe in magic?">
+<img src="<img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/e02aadbc-daee-4b27-9c32-c94b13275fd7" />
+">
 
 <img width="375" height="358" alt="image" src="https://github.com/user-attachments/assets/4287e32e-334d-4927-a272-06a534f9e1c8" />
 
