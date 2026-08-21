@@ -25,7 +25,7 @@ go to my strawpage, it's nicer
 
 </details>
 
-<img src="page dividers/16.gif" alt="pink swirls">
+<img width="500" height="21" alt="image" src="https://github.com/user-attachments/assets/2381c9ca-25cc-4acc-99fc-ca87c165b394" />
 
 <img width="375" height="358" alt="image" src="https://github.com/user-attachments/assets/4287e32e-334d-4927-a272-06a534f9e1c8" />
 
