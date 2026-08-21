@@ -25,7 +25,7 @@ go to my strawpage, it's nicer
 
 </details>
 
-![pyroland](https://klipy.com/gifs/team-fortress-2-tf2-4)
+<img src="page dividers/16.gif" alt="pink swirls">
 
 <img width="375" height="358" alt="image" src="https://github.com/user-attachments/assets/4287e32e-334d-4927-a272-06a534f9e1c8" />
 
