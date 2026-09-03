@@ -13,8 +13,12 @@ go to my strawpage, it's nicer
 
 
 <details closed>
-<summary> byi</summary>
+<summary> byi and dni</summary>
 
+<p> dni (do not interact) </p>
+<p> people over 18 (i am a minor) </p>
+<p> basic dni (pedophiles, racists, weirdos etc) </p>
+<p> byi (before you interact) </p>
 <p> I'm usually off-tab so please w2i. I might also miss some messgages (#_<-) ) </p>
 <p> hi ya also don't copy my skins >:-( you can take inspo though!!! </p>
 <p> I get really bad mood swings and I change my opinions and views drastically all the time. </p>
