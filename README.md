@@ -17,7 +17,8 @@ go to my strawpage, it's nicer
 
 <p> dni (do not interact) </p>
 <p> people over 18 (i am a minor) </p>
-<p> basic dni (pedophiles, racists, weirdos etc) </p>
+ <p> ---> <a 
+  href="https://basic-dni.crd.co/">basic dni</a>.</p>
 <p> byi (before you interact) </p>
 <p> I'm usually off-tab so please w2i. I might also miss some messgages (#_<-) ) </p>
 <p> hi ya also don't copy my skins >:-( you can take inspo though!!! </p>
