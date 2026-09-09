@@ -35,6 +35,14 @@ go to my strawpage, it's nicer
 <img width="150" height="20" alt="pyroland" src="https://github.com/user-attachments/assets/c259894d-1020-4aec-b835-a906a0d4ced9" />
 <img width="150" height="20" alt="rainbow star gradient" src="https://github.com/user-attachments/assets/10199584-f9a9-4ae5-924b-860747094571" />
 <img width="150" height="22" alt="ezgif-4d1d89f803110a22" src="https://github.com/user-attachments/assets/09066cf9-c099-4459-9ea4-daac28ee0677" />
+<img width="150" height="20" alt="rainbowfade" src="https://github.com/user-attachments/assets/39af7fbd-f182-4f50-9d0d-51c3f6c7a29a" />
+<img width="150" height="20" alt="Rainbow" src="https://github.com/user-attachments/assets/6dec3a61-5dc8-4f73-98ac-b3fc33de9cfc" />
+
+
+<img width="99" height="56" alt="stamp box" src="https://github.com/user-attachments/assets/b7bfe28e-f36b-4b02-9189-f798a6eb5e1d" />
+<img width="99" height="56" alt="627448538-6f7d221e-199d-42f3-8a70-6d5c8250583b" src="https://github.com/user-attachments/assets/b866ee97-53ea-4009-9fbb-8936cd785af2" />
+<img width="99" height="56" alt="stamp" src="https://github.com/user-attachments/assets/7f52498e-9382-4994-a8b2-e5551ea23cd5" />
+<img width="99" height="56" alt="clone high- hands of sincerity stamp m00nsrequest (1)" src="https://github.com/user-attachments/assets/872ce42a-2e08-4a89-b6f6-1ccb2df69636" />
 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317vzs47greulnxzhbonttb5eziy&cover_image=true&theme=novatorem&show_offline=false&background_color=93bde0&interchange=true&profanity=false&hide_remaster=false&bar_color=f37c98&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=317vzs47greulnxzhbonttb5eziy&redirect=true)
