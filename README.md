@@ -32,11 +32,9 @@ go to my strawpage, it's nicer
 
 <img width="375" height="358" alt="image" src="https://github.com/user-attachments/assets/4287e32e-334d-4927-a272-06a534f9e1c8" />
 
-
-
-
-
 <img width="150" height="20" alt="pyroland" src="https://github.com/user-attachments/assets/c259894d-1020-4aec-b835-a906a0d4ced9" />
+<img width="150" height="20" alt="rainbow star gradient" src="https://github.com/user-attachments/assets/10199584-f9a9-4ae5-924b-860747094571" />
+<img width="150" height="22" alt="ezgif-4d1d89f803110a22" src="https://github.com/user-attachments/assets/09066cf9-c099-4459-9ea4-daac28ee0677" />
 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317vzs47greulnxzhbonttb5eziy&cover_image=true&theme=novatorem&show_offline=false&background_color=93bde0&interchange=true&profanity=false&hide_remaster=false&bar_color=f37c98&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=317vzs47greulnxzhbonttb5eziy&redirect=true)
