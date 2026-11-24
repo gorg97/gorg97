@@ -34,11 +34,12 @@ check out my strawpage!!
 
 
 
-<img width="150" height="20" alt="pyroland" src="https://github.com/user-attachments/assets/c259894d-1020-4aec-b835-a906a0d4ced9" />
-<img width="150" height="20" alt="rainbow star gradient" src="https://github.com/user-attachments/assets/10199584-f9a9-4ae5-924b-860747094571" />
+<img width="150" height="20" alt="pyroland" src="LINK" />
+<img width="150" height="20" alt="rainbow star gradient" src="hLINK" />
 <img width="150" height="22" alt="ezgif-4d1d89f803110a22" src="https://github.com/user-attachments/assets/09066cf9-c099-4459-9ea4-daac28ee0677" />
 <img width="150" height="20" alt="rainbowfade" src="https://github.com/user-attachments/assets/39af7fbd-f182-4f50-9d0d-51c3f6c7a29a" />
 <img width="150" height="20" alt="Rainbow" src="https://github.com/user-attachments/assets/6dec3a61-5dc8-4f73-98ac-b3fc33de9cfc" />
+![hippo](https://gorg97-blinkie-stamp-collection.neocities.org/buttons/portal-ban-beautiful-afghan-houndsimg3.gif)
 
 
 <img width="99" height="56" alt="stamp box" src="https://github.com/user-attachments/assets/b7bfe28e-f36b-4b02-9189-f798a6eb5e1d" />
