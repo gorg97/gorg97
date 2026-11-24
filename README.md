@@ -34,8 +34,7 @@ check out my strawpage!!
 
 
 
-<img width="150" height="20" alt="word" src="https://gorg97-blinkie-stamp-collection.neocities.org/blinkies/Rainbow.gif" />
-<img width="150" height="20" alt="word" src="https://gorg97-blinkie-stamp-collection.neocities.org/blinkies/tumblr_bfeecad1c402f2d6cc54744bca9e8ce0_11b14737_250.gif" />
+<img width="150" height="20" alt="word" src="https://gorg97-blinkie-stamp-collection.neocities.org/blinkies/Rainbow.gif" /> <img width="150" height="20" alt="word" src="https://gorg97-blinkie-stamp-collection.neocities.org/blinkies/tumblr_bfeecad1c402f2d6cc54744bca9e8ce0_11b14737_250.gif" />
 <img width="150" height="20" alt="word" src="https://gorg97-blinkie-stamp-collection.neocities.org/blinkies/tumblr_static_47do6aac8kis44skk4wwgsw40.gif" />
 <img width="150" height="20" alt="word" src="https://gorg97-blinkie-stamp-collection.neocities.org/blinkies/x3.gif" />
 <img width="150" height="20" alt="word" src="https://gorg97-blinkie-stamp-collection.neocities.org/blinkies/rainbow%20star%20gradient.gif" />
