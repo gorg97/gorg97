@@ -70,10 +70,30 @@ check out my strawpage!!
 <img width="150" height="20" alt="word" src="https://gorg97-blinkie-stamp-collection.neocities.org/blinkies/hbd.gif" />
 <img width="150" height="20" alt="word" src="https://gorg97-blinkie-stamp-collection.neocities.org/blinkies/ny7.gif" />
 
-<img width="99" height="56" alt="stmap" src="link" />
-<img width="99" height="56" alt="stmap" src="link" />
-<img width="99" height="56" alt="stmap" src="link" />
-<img width="99" height="56" alt="stmap" src="link" />
+<img width="99" height="56" alt="stmap" src="https://gorg97-blinkie-stamp-collection.neocities.org/stamps/177.png" />
+<img width="99" height="56" alt="stmap" src="https://gorg97-blinkie-stamp-collection.neocities.org/stamps/5dc81fab-d0d6-476b-ae76-f4c3b4bcdd1a.png" />
+<img width="99" height="56" alt="stmap" src="https://gorg97-blinkie-stamp-collection.neocities.org/stamps/630031103-0564bc28-a3ee-4624-97a3-12587f1ba046.png" />
+<img width="99" height="56" alt="stmap" src="https://gorg97-blinkie-stamp-collection.neocities.org/stamps/8c6b9eaf.png" />
+<img width="99" height="56" alt="stmap" src="https://gorg97-blinkie-stamp-collection.neocities.org/stamps/e105.png" />
+<img width="99" height="56" alt="stmap" src="https://gorg97-blinkie-stamp-collection.neocities.org/stamps/clone%20high-%20hands%20of%20sincerity%20stamp%20m00nsrequest.gif" />
+<img width="99" height="56" alt="stmap" src="https://gorg97-blinkie-stamp-collection.neocities.org/stamps/cityscape.gif" />
+<img width="99" height="56" alt="stmap" src="https://gorg97-blinkie-stamp-collection.neocities.org/stamps/s2%20(5).gif" />
+<img width="99" height="56" alt="stmap" src="https://gorg97-blinkie-stamp-collection.neocities.org/stamps/s2%20(6).gif" />
+<img width="99" height="56" alt="stmap" src="https://gorg97-blinkie-stamp-collection.neocities.org/stamps/neonbeads.png" />
+<img width="99" height="56" alt="stmap" src="https://gorg97-blinkie-stamp-collection.neocities.org/stamps/lisa_frank_stars_stamp_by_vtge-dcgi8ad.png" />
+<img width="99" height="56" alt="stmap" src="https://gorg97-blinkie-stamp-collection.neocities.org/stamps/thebread%20(11).png" />
+<img width="99" height="56" alt="stmap" src="https://gorg97-blinkie-stamp-collection.neocities.org/stamps/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f35643730626232646634363864306334396262626137633233306361393533662f306634303739366164373362333330652d61382f73313030783230302f663263.webp" />
+<img width="99" height="56" alt="stmap" src="https://gorg97-blinkie-stamp-collection.neocities.org/stamps/zn%20(1).gif" />
+<img width="99" height="56" alt="stmap" src="https://gorg97-blinkie-stamp-collection.neocities.org/stamps/tumblr_pc32dzs2aK1u9srw6o2_100.png" />
+<img width="99" height="56" alt="stmap" src="https://gorg97-blinkie-stamp-collection.neocities.org/stamps/BerriesStamp.png" />
+<img width="99" height="56" alt="stmap" src="https://gorg97-blinkie-stamp-collection.neocities.org/stamps/red%20stars%20and%20leaves%20stamp.png" />
+<img width="99" height="56" alt="stmap" src="https://gorg97-blinkie-stamp-collection.neocities.org/stamps/STAMPsparklRainbow.gif" />
+<img width="99" height="56" alt="stmap" src="https://gorg97-blinkie-stamp-collection.neocities.org/stamps/Cosmic%20Brownie.gif" />
+<img width="99" height="56" alt="stmap" src="https://gorg97-blinkie-stamp-collection.neocities.org/stamps/this%20landstamp.gif" />
+<img width="99" height="56" alt="stmap" src="https://gorg97-blinkie-stamp-collection.neocities.org/stamps/iDog.gif" />
+<img width="99" height="56" alt="stmap" src="https://gorg97-blinkie-stamp-collection.neocities.org/stamps/Rainbow%20slide.gif" />
+<img width="99" height="56" alt="stmap" src="https://gorg97-blinkie-stamp-collection.neocities.org/stamps/stars.gif" />
+<img width="99" height="56" alt="stmap" src="https://gorg97-blinkie-stamp-collection.neocities.org/stamps/IMG_4612.gif" />
 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317vzs47greulnxzhbonttb5eziy&cover_image=true&theme=novatorem&show_offline=false&background_color=93bde0&interchange=true&profanity=false&hide_remaster=false&bar_color=f37c98&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=317vzs47greulnxzhbonttb5eziy&redirect=true)
