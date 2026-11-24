@@ -70,8 +70,7 @@ check out my strawpage!!
 <img width="150" height="20" alt="word" src="https://gorg97-blinkie-stamp-collection.neocities.org/blinkies/hbd.gif" />
 <img width="150" height="20" alt="word" src="https://gorg97-blinkie-stamp-collection.neocities.org/blinkies/ny7.gif" />
 
-<img width="99" height="56" alt="stmap" src="https://gorg97-blinkie-stamp-collection.neocities.org/stamps/177.png" />
-<img width="99" height="56" alt="stmap" src="https://gorg97-blinkie-stamp-collection.neocities.org/stamps/5dc81fab-d0d6-476b-ae76-f4c3b4bcdd1a.png" />
+<img width="99" height="56" alt="stmap" src="https://gorg97-blinkie-stamp-collection.neocities.org/stamps/177.png" /> <img width="99" height="56" alt="stmap" src="https://gorg97-blinkie-stamp-collection.neocities.org/stamps/5dc81fab-d0d6-476b-ae76-f4c3b4bcdd1a.png" />
 <img width="99" height="56" alt="stmap" src="https://gorg97-blinkie-stamp-collection.neocities.org/stamps/630031103-0564bc28-a3ee-4624-97a3-12587f1ba046.png" />
 <img width="99" height="56" alt="stmap" src="https://gorg97-blinkie-stamp-collection.neocities.org/stamps/8c6b9eaf.png" />
 <img width="99" height="56" alt="stmap" src="https://gorg97-blinkie-stamp-collection.neocities.org/stamps/e105.png" />
