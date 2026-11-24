@@ -30,7 +30,9 @@ check out my strawpage!!
 
 </details>
 
-<img width="375" height="358" alt="image" src="https://github.com/user-attachments/assets/4287e32e-334d-4927-a272-06a534f9e1c8" />
+<img width="280" height="514" alt="image" src="https://github.com/user-attachments/assets/0b3ef650-2be5-48bf-8652-f30c8b68ffb4" />
+
+
 
 <img width="150" height="20" alt="pyroland" src="https://github.com/user-attachments/assets/c259894d-1020-4aec-b835-a906a0d4ced9" />
 <img width="150" height="20" alt="rainbow star gradient" src="https://github.com/user-attachments/assets/10199584-f9a9-4ae5-924b-860747094571" />
