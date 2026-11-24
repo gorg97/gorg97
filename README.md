@@ -1,5 +1,6 @@
 
-<img width="518" height="11" alt="image" src="https://github.com/user-attachments/assets/36072ce2-61ac-4df4-b119-1803233aeae9" />
+<img width="500" height="18" alt="image" src="https://github.com/user-attachments/assets/d0a8e6ec-0ddb-4ac6-8602-81386c5fe894" />
+
 
 
 check out my strawpage!! 
@@ -46,5 +47,6 @@ check out my strawpage!!
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317vzs47greulnxzhbonttb5eziy&cover_image=true&theme=novatorem&show_offline=false&background_color=93bde0&interchange=true&profanity=false&hide_remaster=false&bar_color=f37c98&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=317vzs47greulnxzhbonttb5eziy&redirect=true)
 
-<img width="518" height="11" alt="image" src="https://github.com/user-attachments/assets/653e5695-104f-4875-b1ce-81f388fea7ef" />
+<img width="500" height="18" alt="image" src="https://github.com/user-attachments/assets/b6184da8-678a-4778-a25b-13c87d792d9d" />
+
 
