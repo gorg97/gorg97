@@ -34,13 +34,42 @@ check out my strawpage!!
 
 
 
+<img width="150" height="20" alt="word" src="[link](https://gorg97-blinkie-stamp-collection.neocities.org/blinkies/Rainbow.gif)" />
 <img width="150" height="20" alt="word" src="link" />
 <img width="150" height="20" alt="word" src="link" />
 <img width="150" height="20" alt="word" src="link" />
 <img width="150" height="20" alt="word" src="link" />
 <img width="150" height="20" alt="word" src="link" />
 <img width="150" height="20" alt="word" src="link" />
-
+<img width="150" height="20" alt="word" src="link" />
+<img width="150" height="20" alt="word" src="link" />
+<img width="150" height="20" alt="word" src="link" />
+<img width="150" height="20" alt="word" src="link" />
+<img width="150" height="20" alt="word" src="link" />
+<img width="150" height="20" alt="word" src="link" />
+<img width="150" height="20" alt="word" src="link" />
+<img width="150" height="20" alt="word" src="link" />
+<img width="150" height="20" alt="word" src="link" />
+<img width="150" height="20" alt="word" src="link" />
+<img width="150" height="20" alt="word" src="link" />
+<img width="150" height="20" alt="word" src="link" />
+<img width="150" height="20" alt="word" src="link" />
+<img width="150" height="20" alt="word" src="link" />
+<img width="150" height="20" alt="word" src="link" />
+<img width="150" height="20" alt="word" src="link" />
+<img width="150" height="20" alt="word" src="link" />
+<img width="150" height="20" alt="word" src="link" />
+<img width="150" height="20" alt="word" src="link" />
+<img width="150" height="20" alt="word" src="link" />
+<img width="150" height="20" alt="word" src="link" />
+<img width="150" height="20" alt="word" src="link" />
+<img width="150" height="20" alt="word" src="link" />
+<img width="150" height="20" alt="word" src="link" />
+<img width="150" height="20" alt="word" src="link" />
+<img width="150" height="20" alt="word" src="link" />
+<img width="150" height="20" alt="word" src="link" />
+<img width="150" height="20" alt="word" src="link" />
+<img width="150" height="20" alt="word" src="link" />
 
 <img width="99" height="56" alt="stmap" src="link" />
 <img width="99" height="56" alt="stmap" src="link" />
