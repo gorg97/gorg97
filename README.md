@@ -1,4 +1,3 @@
-## hello i am gorg, i've given up on trying to make this look nice.
 
 <img width="1000" height="30" alt="image" src="https://github.com/user-attachments/assets/fffc8dd3-a84a-43b7-9f73-18802e08989d" />
 
@@ -6,7 +5,7 @@ go to my strawpage, it's nicer
 
 
 
-<a href="https://hits.sh/github.com/gorg97/"><img alt="Hits" src="https://hits.sh/github.com/gorg97.svg?style=plastic&label=stuck%20in%20pyroland&color=ed4b7e&labelColor=ed4b7e"/></a>
+<a href="https://hits.sh/github.com/gorg97/"><img alt="Hits" src="https://hits.sh/github.com/gorg97.svg?style=plastic&label=people%20invited%20to%20the%20party!!&color=8900D9&labelColor=8900D9"/></a>
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Original+Surfer&duration=2000&pause=750&color=ED4B7E&width=435&lines=in+my+mind%2C+my+dreams+are+real;now+we're+concerned+about+the+way+i+feel;toniiiiiiiiight;i'm+a+rock+n+roll+star!!" alt="Typing SVG" /></a>
