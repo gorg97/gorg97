@@ -1,15 +1,14 @@
 
 <img width="1000" height="30" alt="image" src="https://github.com/user-attachments/assets/fffc8dd3-a84a-43b7-9f73-18802e08989d" />
 
-go to my strawpage, it's nicer
+check out my strawpage!! 
 
 
 
 <a href="https://hits.sh/github.com/gorg97/"><img alt="Hits" src="https://hits.sh/github.com/gorg97.svg?style=plastic&label=people%20invited%20to%20the%20party!!&color=8900D9&labelColor=8900D9"/></a>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Original+Surfer&duration=2000&pause=750&color=ED4B7E&width=435&lines=in+my+mind%2C+my+dreams+are+real;now+we're+concerned+about+the+way+i+feel;toniiiiiiiiight;i'm+a+rock+n+roll+star!!" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Henny+Penny&duration=3000&pause=500&color=FFD500&width=435&lines=Love+and+marriage;Love+and+marriage;Go+together+like+a+horse+and+carriage;This+I+tell+you%2C+brother;You+can't+have+one+without+the+other!" alt="Typing SVG" /></a>
 
 <details closed>
 <summary> byi and dni</summary>
