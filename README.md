@@ -13,18 +13,18 @@ check out my strawpage!!
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Henny+Penny&duration=3000&pause=500&color=FFD500&width=435&lines=Love+and+marriage;Love+and+marriage;Go+together+like+a+horse+and+carriage;This+I+tell+you%2C+brother;You+can't+have+one+without+the+other!" alt="Typing SVG" /></a>
 
 <details closed>
-<summary> byi and dni</summary>
+<summary> BYI and DNI</summary>
 
-<p> dni (do not interact) </p>
-<p> people over 18 (i am a minor) </p>
+<p> DNI (Do Not Interact) </p>
+<p> People over 18 (I am a minor) </p>
  <p><a 
-  href="https://basic-dni.crd.co/">basic dni</a></p>
-<p> byi (before you interact) </p>
-<p> I'm usually off-tab so please w2i. I might also miss some messgages (#_<-) ) </p>
+  href="https://basic-dni.crd.co/">Basic DNI</a></p>
+<p> BYI (Before You Interact) </p>
+<p> I'm usually off-tab so please w2i (Whisper to interact). I might also miss some messgages (#_<-) ) </p>
 <p> hi ya also don't copy my skins >:-( you can take inspo though!!! </p>
 <p> I get really bad mood swings and I change my opinions and views drastically all the time. </p>
 <p> Also related to the mood swings but I can honestly be the nicest person you've ever met or be an actual arsehole (iwcaution). </p>
-<p> My internet is actual shit so don't take it personally if I randomly disappear when we're sitting (i'll usually come back!). </p>
+<p> My internet is actual shit so don't take it personally if I randomly disappear when we're sitting (I'll usually come back!). </p>
 <p>I do get pretty sad when i'm left alone sometimes. </p>
 <p>I live inside my head and i derealise and desocialise a lot. </p>
 
